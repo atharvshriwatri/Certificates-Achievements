@@ -1,12 +1,12 @@
 # 🏆 My Achievements & Certifications
 
-Hi! I'm a dedicated and passionate student with achievements in **sports, creativity, leadership, and academics**. My journey reflects discipline, competitive spirit, and consistent performance across multiple domains.
+Hi! I'm a dedicated and passionate student with achievements in **sports, creativity, leadership, academics, and early professional experience**. My journey reflects discipline, competitive spirit, and continuous growth across multiple domains.
 
 ---
 
 # 🏅 Sports Achievements
 
-## 🏐 Cester Ball Competition (Class 9 | Age 14)
+## 🏐 Cesto Ball Competition (Class 9 | Age 14)
 
 * **Level:** Inter-School → State Level (Punjab)
 * **Achievement:** Selected for State-Level Team
@@ -132,7 +132,7 @@ Hi! I'm a dedicated and passionate student with achievements in **sports, creati
 
 * **Level:** National
 * **Achievement:** Good Rank
-* **Description:** Performed well in national-level exam.
+* **Description:** Performed well in a national-level exam.
 * **Skills:** Logical Thinking, Problem Solving
 * **Certificate:** [View](./academics/byjus_certificate.pdf)
 
@@ -142,7 +142,7 @@ Hi! I'm a dedicated and passionate student with achievements in **sports, creati
 
 * **Position:** 🥈 Second Prize
 * **Level:** School
-* **Description:** Demonstrated strong general knowledge.
+* **Description:** Demonstrated strong general knowledge and quick thinking.
 * **Skills:** Knowledge, Fast Thinking
 * **Certificate:** [View](./academics/quiz_certificate.pdf)
 
@@ -162,9 +162,21 @@ Hi! I'm a dedicated and passionate student with achievements in **sports, creati
 ## 💻 B10X Online Workshop
 
 * **Type:** Online Learning
-* **Description:** Completed workshop focused on learning and development.
+* **Description:** Completed a workshop focused on learning and skill development.
 * **Skills:** Curiosity, Learning Ability
 * **Certificate:** [View](./certifications/b10x_certificate.pdf)
+
+---
+
+# 💼 Professional Experience & Early Earnings
+
+## 🎬 Freelance Photo & Video Editing (Started in Class 8)
+
+* **Work:** Photo Editing, Video Editing, Product Advertisement
+* **Type:** Freelance / Self-Employed
+* **Description:** Started earning at an early age by providing editing and promotional services. Worked on creating engaging visual content and advertisements.
+* **Skills:** Video Editing, Photo Editing, Content Creation, Marketing, Client Handling
+* **Impact:** Developed real-world experience, financial awareness, and practical skills alongside academics
 
 ---
 
@@ -175,6 +187,7 @@ Hi! I'm a dedicated and passionate student with achievements in **sports, creati
 * 🎭 Excellence in Acting & Creativity
 * 📚 Strong Academic Performance
 * 💪 Leadership & Team Skills
+* 💼 Early Professional Experience
 * ⚡ Multi-Sport Participation
 
 ---
