@@ -19,7 +19,7 @@ Hi! I'm a dedicated and passionate student with achievements in **sports, creati
 * **Certificates:**
 
   * [School Certificate]
-  * [view] (https://github.com/atharvshriwatri/Certificates-Achievements/blob/main/%F0%9F%8F%85%20sports/cestoball%201.pdf))
+  * [view]((https://github.com/atharvshriwatri/Certificates-Achievements/blob/main/%F0%9F%8F%85%20sports/cestoball%201.pdf))
   * [State Certificate](https://github.com/atharvshriwatri/Certificates-Achievements/blob/main/%F0%9F%8F%85%20sports/cestoball%202.pdf)
 
 ---
