@@ -18,7 +18,7 @@ Hi! I'm a dedicated and passionate student with achievements in **sports, creati
 * **Skills:** Teamwork, Leadership, Competitive Spirit, Discipline
 * **Certificates:**
 
-  * [School Certificate](🏅 sports/cestoball 1.pdf)
+  * [School Certificate]([🏅 sports/cestoball 1.pdf](https://github.com/atharvshriwatri/Certificates-Achievements/blob/main/%F0%9F%8F%85%20sports/cestoball%201.pdf))
   * [State Certificate](./sports/cester_state_certificate.pdf)
 
 ---
