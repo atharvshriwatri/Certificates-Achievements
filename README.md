@@ -140,7 +140,7 @@ Hi! I'm a dedicated and passionate student with achievements in **sports, creati
 
 ## 🧩 Quiz Competition (Class 3–4)
 
-* **Position:** 🥈 Second Prize
+* **Position:** third runnerup prize
 * **Level:** School
 * **Description:** Demonstrated strong general knowledge and quick thinking.
 * **Skills:** Knowledge, Fast Thinking
